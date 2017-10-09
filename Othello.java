@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//should there be a board class associated with this??
 /** Class Othello
   * represents a two person game of Othello (also known as Reversi or Black and White Chess). 
   * The game starts on a 2D board with two black and two white pegs on diagonals in the 
